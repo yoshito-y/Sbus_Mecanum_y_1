@@ -1,7 +1,7 @@
 //2019-07-04　modify by yukimakura
 //凧氏のC++コードをCに書き直す
 //プロポの表示範囲を-255から255に変更
-
+//Hey!Hey!Hey!Hey!Hey!
 int button(int);
 int safe(int getData);
 
